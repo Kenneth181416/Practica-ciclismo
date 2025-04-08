@@ -1,4 +1,8 @@
+package parctica.ciclismo;
+
+
 public class Velocista extends Ciclista {
+    
     private double potenciaPromedio;
     private double velocidadSprint;
 
